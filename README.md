@@ -102,7 +102,7 @@ print(ask("Who is the president?"))
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/medical-chatbot.git
+git clone https://github.com/realme-bot/Medical-ChatBot-Gen-AI.git
 cd medical-chatbot
 ```
 
